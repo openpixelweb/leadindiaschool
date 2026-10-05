@@ -89,7 +89,7 @@ export default function TestimonialAreaOne() {
               <div className="testimonial-single-item text-center active">
                 <div className="user-thumb-area text-center mx-auto">
                   <div className="user-img mx-auto">
-                    <img src="/assets/img/thumbnail/parent.png" alt="img" />
+                    <img src="/assets/img/testimonial/parent.png" alt="img" />
                 
                   </div>
                 </div>
@@ -119,7 +119,7 @@ export default function TestimonialAreaOne() {
               <div className="testimonial-single-item text-center active">
                 <div className="user-thumb-area text-center mx-auto">
                   <div className="user-img mx-auto">
-                    <img src="assets/img/thumbnail/parent.png" alt="img" />
+                    <img src="assets/img/testimonial/parent.png" alt="img" />
              
                   </div>
                 </div>
@@ -149,7 +149,7 @@ export default function TestimonialAreaOne() {
               <div className="testimonial-single-item text-center active">
                 <div className="user-thumb-area text-center mx-auto">
                   <div className="user-img mx-auto">
-                    <img src="assets/img/thumbnail/parent.png" alt="img" />
+                    <img src="assets/img/testimonial/parent.png" alt="img" />
                   
                   </div>
                 </div>
@@ -179,7 +179,7 @@ export default function TestimonialAreaOne() {
               <div className="testimonial-single-item text-center active">
                 <div className="user-thumb-area text-center mx-auto">
                   <div className="user-img mx-auto">
-                    <img src="assets/img/thumbnail/parent.png" alt="img" />
+                    <img src="assets/img/testimonial/parent.png" alt="img" />
                  
                   </div>
                 </div>
@@ -210,7 +210,7 @@ export default function TestimonialAreaOne() {
               <div className="testimonial-single-item text-center active">
                 <div className="user-thumb-area text-center mx-auto">
                   <div className="user-img mx-auto">
-                    <img src="assets/img/thumbnail/parent.png" alt="img" />
+                    <img src="assets/img/testimonial/parent.png" alt="img" />
                  
                   </div>
                 </div>
