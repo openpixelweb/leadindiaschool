@@ -4739,7 +4739,7 @@ img.starimg {
   right: 40px;
   bottom: 0;
   /* max-width: 900px; */
-  height: 640px;
+  height: 520px;
   z-index: -1;
 }
 .banner-section03 .hero-thumb-right img {
@@ -4802,7 +4802,7 @@ img.starimg {
     right: 10px;
     bottom: 0;
     /* max-width: 700px; */
-    height: 500px;
+    height: 425px;
   }
   .banner-section03 .hero-thumb-right img {
     width: 100%;
@@ -4822,7 +4822,7 @@ img.starimg {
     right: 10px;
     bottom: 0;
     /* max-width: 600px; */
-    height: 400px;
+    height: 365px;
   }
   .banner-section03 .hero-thumb-right img {
     width: 100%;
@@ -8454,7 +8454,7 @@ input.main-search-input::placeholder {
 
         .student-image-wrapper {
           position: relative;
-          height: 250px;
+          /* height: 250px; */
           overflow: visible;
           border-radius: 22px;
         }

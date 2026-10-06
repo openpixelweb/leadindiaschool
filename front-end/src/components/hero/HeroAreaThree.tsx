@@ -34,7 +34,7 @@ Most importantly - their own remarkable self.
           <img src="assets/img/banner/banner-2.png" alt="Libr school students" />
         </div> */}
         <div className="hero-thumb-right">
-          <img src="assets/img/banner/home-1.png" alt="education at libr" />
+          <img src="assets/img/banner/schoolchildren.png" alt="education at libr" />
         </div>
         {/* <img src="assets/img/banner/rounded-shape-hero.png" alt="img" className="round-hero-shape" /> */}
         {/* <img src="/assets/img/banner/hat.png" alt="img" className="shot-4 d-lg-block d-none updowns" /> */}
